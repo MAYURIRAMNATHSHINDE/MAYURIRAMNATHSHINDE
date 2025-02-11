@@ -1,5 +1,6 @@
 ## I'm Mayuri 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAYURIRAMNATHSHINDE)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MAYURIRAMNATHSHINDE/MAYURIRAMNATHSHINDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
